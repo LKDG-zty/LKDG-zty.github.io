@@ -1,0 +1,102 @@
+/**
+ * @file
+ * @project 746
+ * @package sftheme
+ * @site app1
+ */
+
+a:link {
+	color: #f09502;
+	text-decoration: underline;	
+}
+
+a:visited {
+	color: #f09502;
+	text-decoration: underline;		
+}
+
+a:hover {
+	color: #f09502;
+	text-decoration: none;	
+}
+
+.sf_wrapper {	
+	background-image: url(images/746_contentbg_1.png);
+	background-repeat: repeat;
+}
+
+.sf_pagetitle {		
+	color: #DB7E19;	
+}
+
+.sf_navigation ul li a {	
+	color: #ea9000;		
+}
+
+.sf_navigation ul li a:visited {	
+	color: #ea9000;	
+}
+
+.sf_navigation ul li a:hover {
+	color: #ffffff;
+	background-color: #FFAE33;	
+}
+
+.sf_navigation ul li:hover a {	
+	color: #ffffff;
+	background-color: #FFAE33;	
+}
+
+.sf_region6 {	
+	border:1px solid #FFCD6E;	
+}
+
+.sf_extra9 {
+	background-image: url(images/746_animal_1.png);
+	background-position: bottom;
+	background-repeat: no-repeat;	
+}
+
+
+/* DB Now */
+
+.Data_Central_color1 {
+ background-color:#f09502;
+ color:#3F281F;
+}
+.Data_Central_color2 {
+ background-color:#9F9F9F;
+ color:#3F281F;
+}
+.Data_Central_color3 {
+ background-color:#CFCFCF;
+ color:#3F281F;
+}
+.Data_Central_color3 a,
+.Data_Central_color3 a:visited { 
+ color:#3F281F;
+ text-decoration:underline;
+}
+.Data_Central_color3 a:hover { 
+ color:#3F281F;
+ text-decoration:none;
+}
+.Data_Central_color4 {
+ background-color:#ffffff;
+ color:#3F281F;
+}
+.Data_Central_color5 {
+ border-color:#EFEFEF;
+}
+.Data_Central_color6 {
+ background-color:#EFEFEF;
+ color:#3F281F;
+}
+.Data_Central_color7 {
+ background-color:#3F281F;
+ color:#ffffff;
+}
+
+/* End DB Now */
+
+
